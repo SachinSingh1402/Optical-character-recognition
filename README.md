@@ -28,7 +28,7 @@ This project demonstrates a text detection and recognition system using EasyOCR 
 - Python 3.x
 - Required libraries:
   ```bash
-  pip install easyocr opencv-python-headless matplotlib numpy
+     pip install easyocr opencv-python-headless matplotlib numpy
   ```
 ### Files
 - `main.py`: Script for OCR text detection and visualization.
@@ -42,10 +42,10 @@ This project demonstrates a text detection and recognition system using EasyOCR 
 ```bash
   git clone https://github.com/YourUsername/MedicineOCR.git  
   cd MedicineOCR  
-  ```
+```
 ### Step 2: Run the Script
 ```bash
-python main.py 
+   python main.py 
 ``` 
 ### Step 3: View Output
 - The annotated image with detected text is displayed.
@@ -56,12 +56,12 @@ python main.py
 ## Sample Output
 ### Detected Text (Example)
 ```bash
-Detected Text:  
-1. NFwL  
-2. Rac  
-3. Acets 400 mg  
-4. Manufactured by Alembic Pharmaceuticals Ltd  
-5. Store protected from moisture at a temperature not exceeding 25°C.  
+   Detected Text:  
+   1. NFwL  
+   2. Rac  
+   3. Acets 400 mg  
+   4. Manufactured by Alembic Pharmaceuticals Ltd  
+   5. Store protected from moisture at a temperature not exceeding 25°C.  
 ```
 
 ### Annotated Image
